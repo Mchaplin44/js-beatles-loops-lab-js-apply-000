@@ -1,1 +1,3 @@
-// add solution here
+'use strict';
+
+function thebeatlesPlay
